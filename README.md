@@ -5,7 +5,7 @@ The Smart Inventory Monitoring Dashboard is a data analytics project developed u
 
 This dashboard converts raw inventory data into actionable insights through proper data modeling and interactive visualizations. It helps businesses proactively identify low-stock and overstock situations, reduce stockouts, minimize excess inventory, and improve overall supply chain efficiency.
 
----
+
 
 ## 🛠 Tools & Technologies Used  
 
@@ -19,7 +19,7 @@ This dashboard converts raw inventory data into actionable insights through prop
   - Handling missing and inconsistent data  
   - Structuring inventory data for analysis  
 
----
+
 
 ## 📊 Key Insights & Analysis  
 
@@ -37,13 +37,13 @@ This dashboard converts raw inventory data into actionable insights through prop
 
 These insights enable better forecasting, optimized inventory control, and informed business decisions.
 
----
+
 
 ## 🖼 Dashboard Preview  
 
+<img width="1327" height="747" alt="image" src="https://github.com/user-attachments/assets/f5b0cde3-9940-4186-a45a-7945ccb9dab2" />
 
 
----
 
 ## 🔍 Project Highlights  
 
